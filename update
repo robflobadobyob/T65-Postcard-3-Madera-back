@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>POST CARD</title>
+
+    <style>
+
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background: #edeeed;
+        }
+
+        .output {
+            background: #ffffff;
+            position: relative;
+            width: 9.25in;
+            height: 6.25in;
+            margin: 1mm auto;
+        }
+
+        #page2 {
+            background: url("https://radius-bee.s3.amazonaws.com/images/RADIUS_LIVE_8859/bg_4.png");
+            background-size: cover;
+        }
+
+        .output .outputcontent {
+            padding: 0in;
+        }
+
+        .output table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .output table td {
+            border-collapse: collapse;
+            box-sizing: border-box;
+        }
+
+        .output .tbl_personal td {
+            border: 1px solid #bfbfbf;
+            padding: 2px 4px;
+            height: 26px;
+        }
+
+        .output .tbl_personal td:nth-child(1) {
+            background: #fbf3fb;
+        }
+
+        .output p {
+            margin: 0;
+            padding: 0;
+            line-height: 1.25;
+            color: black;
+        }
+
+        .output .txt13 {
+            font-size: 13pt;
+        }
+
+        .output .txt14 {
+            font-size: 14pt;
+        }
+
+        .output .txt15 {
+            font-size: 15pt;
+        }
+
+        .output .txt16 {
+            font-size: 16.5pt;
+        }
+
+        .output .txt21 {
+            font-size: 21pt;
+        }
+
+        .output .txt22 {
+            font-size: 22pt;
+        }
+
+        .output .txt24 {
+            font-size: 24pt;
+            color: #2b60a3;
+        }
+
+        .output .txt42 {
+            font-size: 42pt;
+            color: #2b60a3;
+        }
+
+        .output .txt12 {
+            font-size: 12pt;
+        }
+
+        .output .txt11 {
+            font-size: 11.5pt;
+            line-height: 1.25;
+        }
+
+        .output .txt9 {
+            font-size: 9pt;
+        }
+
+        .output .txt8 {
+            font-size: 8pt;
+        }
+
+        .output .txtbold {
+            font-weight: bold;
+        }
+
+        .output .txtcenter {
+            text-align: center;
+        }
+
+
+    </style>
+</head>
+<body>
+
+<!-- Page 2 -->
+<div class="output" id="page2">
+    <div class="outputcontent">
+
+        <table>
+            <tr>
+                <td width="4%" valign="top"></td>
+                <td width="50%" valign="top">
+                    <p class="txt24 txtbold" style="margin-top: .35in;">
+                        Intimidated by the
+                    </p>
+
+                    <p class="txt42 txtbold" style="margin-top: 0.01in;">
+                        Medicare Maze?
+                    </p>
+
+                    <p class="txt16" style="margin-top: .1in; margin-left: 0.2in; margin-right: 0.7in;">
+                        Contact us, {{first_name}}, and get answers to your Medicare questions today! As your local
+                        Madera County Medicare experts, our job is to give you peace of mind and reduce your stress
+                        while finding the plan that's the best for you. Our services are always complimentary.
+                        <br><br>
+                        Robert Loyd and Israel Cortes <br />
+                        Licensed Insurance agents <br />
+                        559-366-4734 <br />
+                        info©medicareu.com
+
+
+                    </p>
+
+                </td>
+                <td width="46%" valign="top"></td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
